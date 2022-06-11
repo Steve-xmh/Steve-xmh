@@ -2,8 +2,6 @@
 
 Greeting! I'm SteveXMH (aka Steve plus each first letter of my real name pinyin) or you can call me Steve Xiao as Xiao is my first name.
 
-Currently studying hard for Senior Final Exam, though it will be tough to work on but I will keep coding for anything I like!
-
 My favorite language is Rust language, and I'm working on a Minecraft Launcher called Sharp Craft Launcher, you can check it on [afadian](https://afdian.net/@SteveXMH)
 
 Also I'm good at lots of full stack stuffs. Such as backends (GO, Rust, NodeJS, Python) and frontends (JavaScript, TypeScript, HTML, CSS), also I'm currently remaking Scratch Player in Rust!
@@ -15,8 +13,6 @@ So have a look around! I hope you can enjoy my works and also, give me a star!
 ### Chinese (简体中文)
 
 你好！我是 SteveXMH (Steve Xiao 或者 史蒂夫·萧)，这个名字的 XMH 是我的真名拼音首字母大写。
-
-现在在为高考努力学习中，虽然艰难但是我还是会用空余时间写写喜欢的代码。
 
 现在我非常热衷使用 Rust 语言，并正在用它编写一个名为 Sharp Craft Launcher 的启动器，可以在[爱发电里找到它](https://afdian.net/@SteveXMH)。
 
