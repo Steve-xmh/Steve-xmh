@@ -42,5 +42,5 @@ So have a look around! I hope you can enjoy my works and also, give me a star!
 - [哔哩哔哩 @Steve_xmh](https://space.bilibili.com/20875230)
 - [Pixiv @Steve_xmh](https://www.pixiv.net/users/17797500)
 
-|![](https://github-readme-stats.vercel.app/api?username=Steve-xmh&show_icons=true)|![](https://github-readme-stats.vercel.app/api/top-langs?username=Steve-xmh&exclude_repo=blog,scl&hide=c&layout=compact)|
+|![](https://github-readme-stats.vercel.app/api?username=Steve-xmh&show_icons=true)|![](https://github-readme-stats.vercel.app/api/top-langs?username=Steve-xmh&exclude_repo=blog,scl&hide=c,actionscript,css,html,javascript&layout=compact)|
 | ------------- | ------------- |
