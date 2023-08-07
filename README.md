@@ -18,6 +18,7 @@ So have a look around! I hope you can enjoy my works and also, give me a star!
 - [Afdian @SteveXMH](https://afdian.net/a/SteveXMH)
 - [Bilibili @Steve_xmh](https://space.bilibili.com/20875230)
 - [Pixiv @Steve_xmh](https://www.pixiv.net/users/17797500)
+- [Email stevexmh@qq.com](mailto:stevexmh@qq.com)
 
 ### Chinese (简体中文)
 
@@ -41,6 +42,7 @@ So have a look around! I hope you can enjoy my works and also, give me a star!
 - [爱发电 @SteveXMH](https://afdian.net/a/SteveXMH)
 - [哔哩哔哩 @Steve_xmh](https://space.bilibili.com/20875230)
 - [Pixiv @Steve_xmh](https://www.pixiv.net/users/17797500)
+- [电子邮箱 stevexmh@qq.com](mailto:stevexmh@qq.com)
 
 | ![](https://github-readme-stats.vercel.app/api?username=Steve-xmh&show_icons=true) | ![](https://github-readme-stats.vercel.app/api/top-langs?username=Steve-xmh&exclude_repo=blog,scl&hide=c,actionscript,css,html,javascript&layout=compact) |
 | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
